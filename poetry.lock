@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "BearLibTerminal is a pseudoterminal window library"
+name = "bearlibterminal"
+optional = false
+python-versions = "*"
+version = "0.15.7"
+
+[metadata]
+content-hash = "bc49e2be0609e4080c452e0c5d61f92c9ec0e608a870b18e3969741c803cfd37"
+python-versions = "^3.7"
+
+[metadata.hashes]
+bearlibterminal = ["8c48d0d046d6efcac3bbdd6db736f5896695d462a883af4a40a460e306f08fc5", "ad95ef42ea7d733dda43b64213676e39cd3e0b311fd72034e509fd036fa82f41", "b89b347c5e9f5327ccd23832c6df1f8a163b4762b654c28ceb7207f5e3f4f411", "c6cde8992148364b8d7142c885dce0eac704d7a222af80c4b23d10e167efc9ef", "f1ccb6e374cb030f3605120a4d648ffe48084b6f8173a17a6f3696efd489791a"]

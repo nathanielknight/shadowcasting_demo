@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "shadowcasting_demo"
+version = "0.1.0"
+description = "Sample code illustrating a field-of-view algorithm."
+authors = ["Nat Knight <nathaniel.ep@gmail.com>"]
+license = "MPL-2.0"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+bearlibterminal = "^0.15.7"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
